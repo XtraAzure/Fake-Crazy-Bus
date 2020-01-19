@@ -1,0 +1,10 @@
+StartBG - https://pxhere.com/en/photo/1257416
+MenuBG - https://www.pxfuel.com/en/free-photo-jkvsl
+OptionBG - https://commons.wikimedia.org/wiki/File:Newport_bus_station_parking_area.JPG
+CreditBG - https://www.pxfuel.com/en/free-photo-xxsls
+BusSelectionBG - https://commons.wikimedia.org/wiki/File:ZOB_central_bus_station_Lister_Tor_high-rise_Hanover_Germany.jpg
+ControlBG - https://www.needpix.com/photo/download/899907/bus-inside-interior-steering-wheel-the-drivers-seat-bus-driver-course-dare-the-tax-on-the-steering-wheel
+
+YellowBusBG - https://publicdomainvectors.org/en/free-clipart/School/40808.html
+GreenBusBG - http://www.publicdomainfiles.com/show_file.php?id=13533731419553
+RedBusBG - https://pixabay.com/vectors/skyline-city-blue-town-silhouette-296469/
